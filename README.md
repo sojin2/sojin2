@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Welcome&fontColor=#FFFFFF&animation=twinkling&type=waving&color=#ECDBFF&height=700&section=header&text=capsule%20render&fontSize=90)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi&nbsp;&nbsp;I'm&nbsp;&nbsp;Sojin&nbsp;!&nbsp;🐥&fontAlign=50&fontAlignY=40&fontColor=FFFFFF&color=#F3E9FF)
 
 <!--
 **sojin2/sojin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
