@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=red"/></a>
+<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Swift&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Swift&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=Swift&logoColor=white"/></a>
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sojin2&show_icons=true&theme=radical)
